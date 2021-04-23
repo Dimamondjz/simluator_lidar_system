@@ -36,7 +36,7 @@
 
 ​		改为
 
-​		url: [https://api.ignitionrobotics.org
+​		url: https://api.ignitionrobotics.org
 
 ​		**注意：**一定要对齐 url 与name对齐
 
